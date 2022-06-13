@@ -1,0 +1,10 @@
+.text_img_slider {
+    position: absolute;
+    right: 100px;
+    bottom: 200px;
+    color: #fff;
+}
+
+.img_white{
+    color: white;
+}

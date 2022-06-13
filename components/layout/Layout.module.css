@@ -1,0 +1,31 @@
+.navbar {
+    direction: rtl;
+}
+
+.logo {
+    width: 3rem;
+}
+
+.login_Btn {
+    width: 100px;
+    margin-right: auto;
+}
+
+.avatar_dropdown {
+    margin-right: auto;
+}
+
+.avatar_menu {
+    width: 150px;
+    direction: rtl;
+    text-align: center;
+}
+
+.footer {
+    height: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    direction: rtl;
+}

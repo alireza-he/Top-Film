@@ -1,0 +1,23 @@
+.card {
+    /*max-width: 150px;*/
+    border: none;
+    transition: .2s;
+}
+
+.card_font_hover:hover {
+    font-weight: bolder;
+}
+
+.img_shadow, .img_shadow_dark {
+    cursor: pointer;
+    margin-bottom: .5rem;
+    transition: .2s;
+}
+
+.img_shadow:hover {
+    box-shadow: 3px 3px 10px 8px #00000020;
+}
+
+.img_shadow_dark:hover {
+    box-shadow: 3px 3px 10px 8px #80808050;
+}

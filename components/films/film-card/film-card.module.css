@@ -1,0 +1,19 @@
+.card {
+    max-width: 150px;
+    border: none;
+    transition: .2s;
+}
+
+.card_font_hover:hover {
+    font-size: large;
+}
+
+.img_shadow {
+    transition: .2s;
+    margin-bottom: .5rem;
+    cursor: pointer;
+}
+
+.img_shadow:hover {
+    box-shadow: 3px 3px 10px 8px #00000020;
+}

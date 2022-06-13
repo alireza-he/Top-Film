@@ -1,0 +1,75 @@
+@font-face {
+    font-family: Vazir;
+    src: url('../public/assets/fonts/vazir-font/Vazir-Bold.eot');
+    src: url('../public/assets/fonts/vazir-font/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../public/assets/fonts/vazir-font/Vazir-Bold.woff2') format('woff2'),
+    url('../public/assets/fonts/vazir-font/Vazir-Bold.woff') format('woff'),
+    url('../public/assets/fonts/vazir-font/Vazir-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Vazir;
+    src: url('../public/assets/fonts/vazir-font/Vazir-Medium.eot');
+    src: url('../public/assets/fonts/vazir-font/Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../public/assets/fonts/vazir-font/Vazir-Medium.woff2') format('woff2'),
+    url('../public/assets/fonts/vazir-font/Vazir-Medium.woff') format('woff'),
+    url('../public/assets/fonts/vazir-font/Vazir-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Vazir;
+    src: url('../public/assets/fonts/vazir-font/Vazir-Light.eot');
+    src: url('../public/assets/fonts/vazir-font/Vazir-Light.eot?#iefix') format('embedded-opentype'),
+    url('../public/assets/fonts/vazir-font/Vazir-Light.woff2') format('woff2'),
+    url('../public/assets/fonts/vazir-font/Vazir-Light.woff') format('woff'),
+    url('../public/assets/fonts/vazir-font/Vazir-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Vazir;
+    src: url('../public/assets/fonts/vazir-font/Vazir-Thin.eot');
+    src: url('../public/assets/fonts/vazir-font/Vazir-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../public/assets/fonts/vazir-font/Vazir-Thin.woff2') format('woff2'),
+    url('../public/assets/fonts/vazir-font/Vazir-Thin.woff') format('woff'),
+    url('../public/assets/fonts/vazir-font/Vazir-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: 'Vazir', sans-serif !important;
+}
+
+.rtl {
+    direction: rtl;
+}
+
+.mb_2rem {
+    margin-bottom: 2rem;
+}
+
+.ant-form-item-label {
+    text-align-last: right;
+}
+
+.ant-form-item-explain {
+    text-align-last: right;
+}
+
+
+
+
+
+
+

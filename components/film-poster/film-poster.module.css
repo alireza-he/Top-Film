@@ -1,0 +1,41 @@
+.banner {
+    position: relative;
+}
+
+.banner_img_hover {
+    filter: brightness(.2);
+}
+
+.text_img_slider {
+    position: absolute;
+    right: 150px;
+    bottom: 50px;
+    color: #fff;
+    transition: .3s;
+    opacity: 0;
+}
+
+.text_img_slider_hover {
+    opacity: 1;
+}
+
+.img_white {
+    color: white;
+}
+
+/*.banner_img {*/
+/*    transition: .3s;*/
+/*}*/
+
+/*.banner:hover .banner_img {*/
+/*    filter: brightness(.2);*/
+/*}*/
+
+/*.banner:hover .banner_img ~ .text_img_slider {*/
+/*    opacity: 1;*/
+/*}*/
+
+/*.banner:hover .banner_img ~ .text_img_slider {*/
+/*    opacity: 1;*/
+/*}*/
+
