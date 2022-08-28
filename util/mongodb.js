@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 
 const MONGODB_URI = process.env.MONGODB_URI;
+// const MONGODB_URI = http://localhost:27017 node index.js;
 
 if (!MONGODB_URI) {
     throw new Error(
